@@ -10,7 +10,7 @@
 
 <br />
 
-Hi,I'm Samuel William🙌, a Software Engineer with three years of experience, specializing in backend development. Holding a Bachelor's degree in Information Systems from UFMG, I bring a focused approach to problem-solving. My expertise lies in unraveling complexities and promoting task automation to enhance productivity, using primarily Javascript, Python, and Elasticsearch.
+Hi, I'm Samuel William, a Software Engineer with three years of experience, specializing in backend development. Holding a Bachelor's degree in Information Systems from UFMG, I bring a focused approach to problem-solving. My expertise lies in unraveling complexities and promoting task automation to enhance productivity, using primarily Javascript, Python, and Elasticsearch.
 
 In my role as a software engineer, I have a proven track record in delivering high-quality software solutions that meet the diverse needs and compliance requirements of the public sector. My commitment extends to creating scalable, efficient, and highly usable solutions. I am dedicated to innovation and have a genuine passion for accelerating projects through technology.
 
